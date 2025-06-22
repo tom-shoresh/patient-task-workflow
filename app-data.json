@@ -108,7 +108,9 @@
     },
     {
       "title": "משימה חדשה",
-      "subtasks": []
+      "subtasks": [
+        "תת-משימה חדשה"
+      ]
     }
   ],
   "routineTasks": [
