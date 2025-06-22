@@ -107,8 +107,10 @@
       ]
     },
     {
-      "title": "משימת בד",
-      "subtasks": []
+      "title": "משימת בדיקה",
+      "subtasks": [
+        "תת-משימה חדשה"
+      ]
     }
   ],
   "routineTasks": [
